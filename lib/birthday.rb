@@ -10,4 +10,4 @@ def happy_birthday(birthday_kids)
       p "Happy Birthday #{key}! You are now #{value} years old!"
   end
   end
-  p happy_birthday(nil)
+  happy_birthday(birthday_kids)
