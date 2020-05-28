@@ -11,4 +11,4 @@ def happy_birthday(birthday_kids)
   end
   
   end
-  p happy_birthday(birthday_kids)
+  p happy_birthday(nil)
